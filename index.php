@@ -1,6 +1,8 @@
 <?php
     include 'snippets/header.php';
-    require 'snippets/footer.php';
+    echo '<br/>';
+    echo '<a href="https://www.heroku.com" target="_blank" > Heroku.com </a>';
+   // require 'snippets/footer.php';
 ?>
 
 
