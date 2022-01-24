@@ -1,5 +1,5 @@
 <?php echo '<hr/>';
-    echo "<p>Copyright &copy; 2002-" . date('Y') . " Vigneshwaran J </p>"
+    echo "<p>Copyright &copy; 2002-" . date('Y') . " <button type='button' class='btn btn-dark'> Vigneshwaran J </button></p>"
 ?>
 
 </div>
